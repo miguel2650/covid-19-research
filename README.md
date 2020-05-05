@@ -1,6 +1,6 @@
 # COVID-19-RESEARCH
 
-This is a project by Mikkel Madsen (miguel2650), Tobias Karentius Kromann Dahl (tobiaskkd), Ludvig Andersen (ludvigandersen) and Lasse Berantzino (lass5643).  
+This is a project by [Mikkel Madsen](https://github.com/miguel2650), [Tobias Karentius Kromann Dahl](https://github.com/tobiaskkd), [Ludvig Andersen](https://github.com/ludvigandersen) and [Lasse Berantzino](https://github.com/lass5643).  
 The project was made @ [Copenhagen School of Design and Technology](https://kea.dk/).
 The dataset used for this research was found @ [Kaggle](https://www.kaggle.com/jannalipenkova/covid19-public-media-dataset).
 
