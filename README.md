@@ -16,13 +16,27 @@ We feel encouraged to research the media's sentiment during the Covid-19 crisis 
 > How has the viewpoint of mainstream media articles towards Covid-19 changed during the Pandemic?
 >
 > - Can an overall change in sentiment be seen?
+> - Has the topics changed over time?
 > - Can a change in positivity or negativity within publishers be seen?
 
 ### Technology used
 
-- Python
-- Pandas
+- [Python](https://www.python.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [NLTK](https://www.nltk.org/)
+- [Scikit Learn](https://scikit-learn.org/stable/)
+- [Matplotlib](https://matplotlib.org/index.html)
+- [TextBlob](https://textblob.readthedocs.io/en/dev/)
+- [Gensim](https://radimrehurek.com/gensim/)
 
 ### Methods used
 
 - K-means
+
+### Credits
+
+While developing this project, many diffrent articles, notebooks and documents were read and inspired by.  
+A huge thanks to
+
+- [nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) by [adashofdata](https://github.com/adashofdata)
+- [Text clustering with K-means and tf-idf](https://medium.com/@MSalnikov/text-clustering-with-k-means-and-tf-idf-f099bcf95183)
