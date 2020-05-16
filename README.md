@@ -27,7 +27,7 @@ We feel encouraged to research the media's sentiment during the Covid-19 crisis 
 - [Scikit Learn](https://scikit-learn.org/stable/)
 - [Matplotlib](https://matplotlib.org/index.html)
 - [TextBlob](https://textblob.readthedocs.io/en/dev/)
-- [Genism](https://radimrehurek.com/gensim/)
+- [Gensim](https://radimrehurek.com/gensim/)
 
 ### Methods used
 
@@ -39,3 +39,4 @@ While developing this project, many diffrent articles, notebooks and documents w
 A huge thanks to
 
 - [nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) by [adashofdata](https://github.com/adashofdata)
+- [Text clustering with K-means and tf-idf](https://medium.com/@MSalnikov/text-clustering-with-k-means-and-tf-idf-f099bcf95183)
