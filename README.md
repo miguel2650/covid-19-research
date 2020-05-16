@@ -39,5 +39,3 @@ While developing this project, many diffrent articles, notebooks and documents w
 A huge thanks to
 
 - [nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) by [adashofdata](https://github.com/adashofdata)
-
-TODO: tilføj https://github.com/adashofdata/nlp-in-python-tutorial
